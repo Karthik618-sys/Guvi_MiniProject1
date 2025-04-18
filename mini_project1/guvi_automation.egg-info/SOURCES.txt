@@ -1,0 +1,7 @@
+README.md
+setup.py
+guvi_automation.egg-info/PKG-INFO
+guvi_automation.egg-info/SOURCES.txt
+guvi_automation.egg-info/dependency_links.txt
+guvi_automation.egg-info/top_level.txt
+tests/test_guvi.py
